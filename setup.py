@@ -5,8 +5,8 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sapass",
-    version="1.9",
-    author="hasan sajedi",
+    version="2.2",
+    author="Hasan Sajedi",
     author_email="hassansajedi@gmail.com",
     description="With this module you can easy generate password in python projects",
     long_description=long_description,
