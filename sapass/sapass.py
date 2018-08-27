@@ -42,4 +42,5 @@ class generator():
             mypw = mypw[0:replace_index] + mypw[replace_index].upper() + mypw[replace_index + 1:]
 
         return mypw
+
 # pa = passgenerator().generate(length=15, includeSymbol=True, includeUppercaseCharacters=True)
